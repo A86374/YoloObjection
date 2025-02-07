@@ -49,14 +49,9 @@ This ensures that users do not need to manually download the required files.
    ```sh
    pip install opencv-python numpy matplotlib requests
    ```
-3. **Run the object detection script:**
+3. **Run the object detection ipynb script:**
    ```sh
-   python detect.py --image path/to/image.jpg
-   ```
-4. **Run object detection on a video:**
-   ```sh
-   python detect.py --video path/to/video.mp4
-   ```
+   run it properly
 
 ---
 
